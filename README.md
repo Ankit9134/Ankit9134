@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter Dart java javascript**
 
-- 👯 I’m looking to collaborate on [Rescue map](https://github.com/Ankit9134/rescuemap_hakthon)
+- 👯 I’m looking to collaborate on [Weather Details](https://github.com/Ankit9134/WeatherDetail_Hackathon_1_Project)
 
 - 🤝 I’m looking for help with **Smart city**
 
