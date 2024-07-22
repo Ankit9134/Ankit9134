@@ -1,6 +1,6 @@
 <div align ="center" color="black">
 <img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" height="150" width="100%">
-<h1 align="center">Hi 👋, I'm Ankit Pal</h1>
+<h1 align="center">Hi 👋, I'm Ankit </h1>
 <h3 align="center">A passionate to develor interseted frontend & backend Develoment &Web,BlackChain.</h3>
 <img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit9134&label=Profile%20views&color=0e75b6&style=flat" alt="ankit9134" /> </p>
