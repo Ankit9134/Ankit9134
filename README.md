@@ -26,7 +26,7 @@ const ankit = {
   role: "Software Developer",
   location: "Delhi NCR, India 🇮🇳",
   education: "B.Tech CST @ Nitra Technical Campus (2022–2026) | 7.6 CGPA",
-  currentlyWorking: ["React Native Apps", "Full Stack Web Apps", "DSA"],
+  currentlyWorking: ["React Native Apps","Backend", "Full Stack Web Apps", "DSA"],
   interests: ["Data Science", "Software Development", "DevSecOps", "New Technologies"],
   funFact: "I turn chai ☕ and code into scalable apps!"
 };
@@ -95,11 +95,6 @@ const ankit = {
 - AI-driven personalized trip recommendations with suggested places
 - Interactive map-based route visualization & itinerary management
 
-### 🍱 [Tiffin Delivery & Management App](https://github.com/ankit9134)
-> React Native · Node.js · Express.js · MongoDB
-- Real-time order tracking, secure payments & vendor management
-- Optimized backend APIs for scalability & superior UX
-- Smooth performance with multi-role support
 
 ---
 
