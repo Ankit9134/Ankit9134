@@ -52,22 +52,6 @@
 ---
 
 # 🚀 Projects
-
-## 🍽️ Tiffin Delivery and Management App
-
-* Real-time order tracking
-* Secure payment integration
-* Vendor management system
-* Built using:
-
-React Native
-Node.js
-Express.js
-MongoDB
-
-Play Store Link:
-https://play.google.com/store/apps/details?id=com.ankitpalntc.tiffinuser
-
 ---
 
 ## 🤖 AI-Powered Travel Planner
